@@ -25,7 +25,6 @@ License: GNU GPL v3 or later
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
     Copyright 2006 Peter Harkins (ph@malaprop.org)
-    Copyright 2008-2009 Joost de Valk (joost@yoast.com)
 */
 
 function googletranslate_sociable_add_sites( $known_sites ) {

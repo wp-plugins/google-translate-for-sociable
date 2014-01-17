@@ -2,7 +2,7 @@
 Plugin URI: http://wordpress.org/extend/plugins/google-translate-for-sociable/
 Author: Lopo Lencastre de Almeida - iPublicis.com
 Author URI: http://w3.ipublicis.com/category/wordpress/wpfr
-Contributors: ipublicis, joostdevalk, sociable
+Contributors: ipublicis
 Donate link: http://smsh.me/7kit
 Tags: social, bookmark, bookmarks, bookmarking, social bookmarking, social bookmarks, shortenurl, url, translate
 Requires at least: 2.6
